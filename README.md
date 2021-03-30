@@ -1,6 +1,6 @@
 # r-conda
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/betatim/r-conda/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JShermanK1/binder_r_conda/HEAD)
 
 > R and RStudio in repo2docker without waiting for packages to compile!
 
