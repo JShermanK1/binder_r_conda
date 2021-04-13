@@ -1,6 +1,8 @@
 channels:
   - conda-forge
 dependencies:
+  - pandas
+  - matplotlib
   - r-base
   - r-tidyverse
 
