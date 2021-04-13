@@ -3,5 +3,5 @@ channels:
 dependencies:
   - r-base
   - r-tidyverse
-  - python-pandas
-  - python-mathplotlib
+  - pandas
+  - mathplotlib
