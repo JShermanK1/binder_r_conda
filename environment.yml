@@ -6,5 +6,7 @@ dependencies:
   - numpy
   - r-base=3.6
   - r-tidyverse
+  - r-ggbeeswarm
+  - r-patchwork
 
 
