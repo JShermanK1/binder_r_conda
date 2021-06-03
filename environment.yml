@@ -5,6 +5,7 @@ dependencies:
   - matplotlib
   - numpy
   - scipy
+  - seaborn
   - r-base=3.6
   - r-tidyverse
   - r-ggbeeswarm
